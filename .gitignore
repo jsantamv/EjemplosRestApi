@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/WebApplication1/obj/Debug/netcoreapp2.2
+/WebApplication1/obj/Release/netcoreapp2.2
